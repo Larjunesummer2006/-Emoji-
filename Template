@@ -1,1 +1,24 @@
+{% extends "layout.html" %}
 
+{% set active_page = "home" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+  <h1>Happy Emoji that eat the random letter</h1>
+
+ 
+{% endblock %}
+{% extends "layout.html" %}
+
+{% set active_page = "home" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+
+  <h1>Happy Emoji that eat the random letter</h1>
+
+ 
+{% endblock %}
